@@ -36,9 +36,29 @@ mastodon_link                             : https://mas.to/@mathiasemil
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Block apps and websites
-    description                           : ...
-    fontawesome_icon_name                 : eyes  
+  - title                                 : Block Apps
+    description                           : Built on Apple’s Screen Time API, Miss Out makes it easy to block specific apps or entire groups of apps for better focus and peace of mind.
+    fontawesome_icon_name                 : mobile-alt
+
+  - title                                 : Block Websites
+    description                           : Powered by a Safari Content Blocker extension, Miss Out lets you block websites effortlessly, with options for custom profiles or curated lists.
+    fontawesome_icon_name                 : globe
+
+  - title                                 : Customizable Profiles
+    description                           : Create tailored profiles to block apps and websites, making it simple to switch between setups for different needs, like avoiding spoilers or taking a break.
+    fontawesome_icon_name                 : user-cog
+
+  - title                                 : Instant Activation
+    description                           : Activate or deactivate your profiles instantly using the app, widgets, control center, or Shortcuts, giving you full control with minimal effort.
+    fontawesome_icon_name                 : bolt
+
+  - title                                 : Stay Spoiler-Free
+    description                           : Easily block content related to sports, TV shows, or movies so you can enjoy them on your own time, without spoilers.
+    fontawesome_icon_name                 : eye-slash
+
+  - title                                 : Take a Break from the News Cycle
+    description                           : Use curated lists or custom profiles to block news websites and take a breather from constant headlines and updates.
+    fontawesome_icon_name                 : newspaper
 
 # Theme Settings
 topbar_color                              : "#000000"
